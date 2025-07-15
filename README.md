@@ -56,7 +56,7 @@ I'm a highly motivated engineer with hands-on experience in **Cloud Infrastructu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devops-shubhamkapadnis&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devops-shubhamkapadnis&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)" width="48%" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devops-shubhamkapadnis&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
