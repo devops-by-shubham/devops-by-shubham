@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Shubham Kapadnis
 
-🚀 **Cloud & DevOps Engineer | Backend Automation Specialist**  
-📍 India | 🖥️ Automating the future one pipeline at a time
+🚀 **Cloud & DevOps Engineer | AWS Certified | 🔁 CI/CD |⚙️ Infra-as-Code | 🧠 Continuous Learning**  
+📍 **India** | 🖥️ Helping teams automate, monitor, and scale infrastructure with confidence.
+🔧 I work with cloud-native technologies, automate everything possible, and love building secure, scalable infrastructure. 
 
 ---
 
