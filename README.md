@@ -5,7 +5,17 @@
 🔧 I work with cloud-native technologies, automate everything possible, and love building secure, scalable infrastructure. 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devops-by-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="devops-by-shubham" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devops-by-shubham" alt="devops-by-shubham" /></a> </p>
+
+<img src="https://github.com/devops-by-shubham/devops-by-shubham/blob/main/blogbranding.png" alt="BlogBranding" />
+ 
+<br>
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 ## 💼 About Me
 
 I'm a highly motivated engineer with hands-on experience in **Cloud Infrastructure**, **CI/CD pipelines**, and **Infrastructure Automation**. From managing production-grade services on **AWS ECS** and internal **IPv6-only networks**, to deploying enterprise-grade apps with **Jenkins**, **Docker**, and **IIS on Windows Core** — I bridge development and operations with clean, secure, and scalable solutions.
