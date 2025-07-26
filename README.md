@@ -6,15 +6,6 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devops-by-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="devops-by-shubham" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devops-by-shubham" alt="devops-by-shubham" /></a> </p>
-
-<img src="https://github.com/devops-by-shubham/devops-by-shubham/blob/main/blogbranding.png" alt="BlogBranding" />
- 
-<br>
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 ## 💼 About Me
 
