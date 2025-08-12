@@ -18,7 +18,7 @@ I'm a highly motivated engineer with hands-on experience in **Cloud Infrastructu
 
 | Domain | Tools / Tech |
 |--------|--------------|
-| **Cloud** | AWS (ECS, EC2, ALB/NLB, IAM, S3, API Gateway, Route53) |
+| **Cloud** | AWS (ECS, EC2, ELB, IAM, S3, API Gateway, CloudFormation, Lambda, Route53) |
 | **DevOps** | Jenkins, GitLab CI/CD, Docker, ECR, Bash, PowerShell |
 | **Backend & Build** | .NET (Core/8.0), MSBuild, Gulp, Angular, Java |
 | **Infra & OS** | Windows Server Core, Linux (CentOS, Ubuntu), IIS |
