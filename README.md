@@ -70,6 +70,5 @@ I'm a highly motivated engineer with hands-on experience in **Cloud Infrastructu
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubham-kapadnis)  
 - 📬 Feel free to open an issue/discussion or connect via GitHub for collaboration or mentorship.
 
-> _“Automation is not about replacing humans. It's about freeing them to do what only humans can do — create, innovate, and lead.”_
 
 ---
